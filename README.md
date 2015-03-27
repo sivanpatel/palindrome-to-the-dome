@@ -21,4 +21,11 @@ Try to take a test-driven approach - having a spec file is necessary to pass the
 
 Submissions will be evaluated on the basis of well-written tests, clean + readable code, and adherence to SOLID principles.
 
-When your 15 minutes is up, push your solution to Github and Hipchat the repo link to the Codejamz room.
+As before:
+
++ Fork this repo to your own gitHub
++ Clone the fork on your local machine
++ Solve the problem
++ Commit changes
++ Push to your remote
++ Submit a pull request
