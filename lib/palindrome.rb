@@ -1,6 +1,6 @@
 class PalindromeToTheDome
 
-  def self.call
+  def self.call(filename)
   end
 
 end
