@@ -1,4 +1,4 @@
-# round-one-march-27
+# Palindrome to the Dome
 
 
 In this directory there is a file named "textfile.md". It contains several hundred lines of text.
@@ -15,13 +15,7 @@ For example:
 
 BONUS: Write a recursive method to check for palindromes!
 
-### Tips
-
-Try to take a test-driven approach - having a spec file is necessary to pass the challenge.
-
-Submissions will be evaluated on the basis of well-written tests, clean + readable code, and adherence to SOLID principles.
-
-As before:
+### Instructions
 
 + Fork this repo to your own gitHub
 + Clone the fork on your local machine
